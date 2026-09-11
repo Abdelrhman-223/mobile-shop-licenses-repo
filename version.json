@@ -1,6 +1,6 @@
 {
   "version": "1.4.0",
-  "download_url": "https://github.com/<you>/<releases-repo>/releases/download/v1.4.0/MobileShopManager.exe",
+  "download_url": "https://github.com/Abdelrhman-223/mobile-shop-licenses-repo/releases/v1.4.0/MobileShopManager.exe",
   "sha256": "put-the-real-hash-of-that-exe-here",
-  "notes": "إصلاح مشكلة الأقساط، تحسينات في الأمان"
+  "notes": "إصدار النسخة النهائية من البرنامج"
 }
